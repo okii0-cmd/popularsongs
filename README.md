@@ -11,12 +11,18 @@ Directories
 Data:
 Spotify 2022 Top 50
 "Top50_nofeatures"→ Original Dataset of 2022 Top50 songs w/out audio features
+
 "Top50_features" → Fetched audio features for 2022 top50 songs
+
 "cleaned_out_new.csv"→ Top50_features file after initial cleaning 
+
 "cleaned_out_new_header.csv" → Dataset after initial cleaning w/headers
+
 Spotify Popular Songs
 "Streams.csv" → Dataset containing 4000 popular song, Spotify URIs and streams
+
 "Full_audio_features"→ Dataset containing 4000 popular songs from Spotify along with their audio features using songs from "streams.csv"
+
 Apple Music Popular Songs
 "kworb_popularity_no_features.csv" →  Original dataset containing around 2000 popular songs from apple music
 "Kworb_popularity.csv"→ Fetched audio features for popular songs from apple music
