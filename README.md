@@ -3,8 +3,13 @@ Public Repository for Big Data Final Project: Analysis of Popular Songs
 
 **Directories** 
 /ana_code →  files containing the pySpark code used for analytics
+
 /profiling_code → profiling code 
+
+/CleanV2 → cleaning Code
+
 /data_ingest → our code for fetching the audio features using Spotify API
+
 /data →  copy of all the data used 
 
 
